@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    font-size: 26px;
+    background-color: rgb(230, 227, 232);
+    font-family: 
+
+}
+
+.main{
+    margin:0 auto;
+    max-width: 1000px;
+    padding: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#img1{
+    border-radius: 5px;
+    width: 303px;
+    height: 450px;
+}
+
+#text{
+    align-self: center;
+    padding: 50px;
+}
+h4{
+    color: rgb(14, 14, 14);
+    opacity: 0.8;
+}
+.description{
+    font-size: 17px;
+    color: black;
+    box-shadow: 2px 4px 4px rgb(28, 27, 27);
+    max-width: 425px;
+    padding: 10px;
+    background-color: aliceblue;
+    font-family: "Dancing Script", cursive;
+    
+
+}
+footer{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 200;
+    padding: 50px;
+}
+
+#Eduardo{
+    background-color: rgb(126, 105, 105);   
+}
+
+#Eduardo:hover{
+   color: rgb(14, 13, 13);
+   font-size: 20px;
+}
